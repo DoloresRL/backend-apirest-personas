@@ -1,0 +1,16 @@
+INSERT INTO personas(nombre, apellido, email, create_at) VALUES("José","Reyes","jose.reyes@correo.com","2023-07-04");
+INSERT INTO personas(nombre, apellido, email, create_at) VALUES("María","Ruiz","maria.ruiz@correo.com","2023-07-04");
+INSERT INTO personas(nombre, apellido, email, create_at) VALUES("Luis","Ortíz","luis.ortiz@correo.com","2023-07-04");
+INSERT INTO personas(nombre, apellido, email, create_at) VALUES("Tomás","Lopez","tomas.lopez@correo.com","2023-07-04");
+INSERT INTO personas(nombre, apellido, email, create_at) VALUES("Ramon","Tellez","ramon.tellez@correo.com","2023-07-04");
+INSERT INTO personas(nombre, apellido, email, create_at) VALUES("Norma","Ruiz","norma.ruiz@correo.com","2023-07-04");
+INSERT INTO personas(nombre, apellido, email, create_at) VALUES("Juan","Perez","juan.perez@correo.com","2023-07-04");
+INSERT INTO personas(nombre, apellido, email, create_at) VALUES("Predro","Flores","pedro.flores@correo.com","2023-07-04");
+INSERT INTO personas(nombre, apellido, email, create_at) VALUES("Daniel","Reyes","daniel.reyes@correo.com","2023-07-04");
+INSERT INTO personas(nombre, apellido, email, create_at) VALUES("Jesus","Ruiz","jesus.ruiz@correo.com","2023-07-04");
+INSERT INTO personas(nombre, apellido, email, create_at) VALUES("Hugo","Ortíz","hugo.ortiz@correo.com","2023-07-04");
+INSERT INTO personas(nombre, apellido, email, create_at) VALUES("Sandra","Lopez","sandra.lopez@correo.com","2023-07-04");
+INSERT INTO personas(nombre, apellido, email, create_at) VALUES("Carmen","Tellez","carmen.tellez@correo.com","2023-07-04");
+INSERT INTO personas(nombre, apellido, email, create_at) VALUES("Rubí","Ruiz","rubi.ruiz@correo.com","2023-07-04");
+INSERT INTO personas(nombre, apellido, email, create_at) VALUES("Fer","Perez","fer.perez@correo.com","2023-07-04");
+INSERT INTO personas(nombre, apellido, email, create_at) VALUES("Ara","Flores","ara.flores@correo.com","2023-07-04");
